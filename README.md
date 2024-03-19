@@ -23,6 +23,6 @@ Bem-vindo ao Jogo de Números 3x3! Este é um simples jogo de quebra-cabeça ond
    ```bash
    python main.py
 
-##Observações:
+## Observações:
 
 - Este jogo foi realizado como parte do curso Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI). O código para limpar o terminal está comentado. Este jogo não é responsivo, recomenda-se ajustar o tamanho da tela conforme necessário.
