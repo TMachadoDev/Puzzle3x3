@@ -17,11 +17,11 @@ Bem-vindo ao Jogo de Números 3x3! Este é um simples jogo de quebra-cabeça ond
 1. **Instale as bibliotecas necessárias:** Para fazer isso basta correr este comando.
    
    ```bash
-   pip3 install -r requirements.txt```
+   pip3 install -r requirements.txt
 
 2. **Corra o código:** Para fazer isto basta correr este comando dentro do dirétorio onde está localiza o ficheiro python.
    ```bash
-   python main.py```
+   python main.py
 
 ##Observações:
 
