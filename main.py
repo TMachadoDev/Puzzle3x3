@@ -42,7 +42,7 @@ def MostrarResultados(percentagem):
     pyconio.gotoxy(20,5) #Ir para determinada posição
     print("Movimentos: ", contagem) #Imprimir o número de movimentos
     pyconio.gotoxy(20,7) #Ir para determinada posição
-    print("Tempo Decorrido", tempo, "segundos") #Imprimir o tempo decorrido em segundos
+    print("Tempo Decorrido:", tempo, "segundos") #Imprimir o tempo decorrido em segundos
     pyconio.gotoxy(20,9) #Ir para determinada posição
     print("Progresso:", int(percentagem), "%") #Imprimir o progresso em valor inteiro
     pyconio.gotoxy(20,11) #Ir para determinada posição
